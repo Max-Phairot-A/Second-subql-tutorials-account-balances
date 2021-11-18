@@ -60,7 +60,7 @@ query {
 ![alt text](subql-tutorials-account-balances_part1.png)
 ![alt text](subql-tutorials-account-balances_part2.png)
 
-### 9. 2nd example query to run
+### 9. The 2nd example query to run
 ```shell
 query {
    accounts(last:3 orderBy:BALANCE_DESC){
